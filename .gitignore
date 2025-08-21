@@ -5,3 +5,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Priyanshu-techp/Laptop-price-analysis-and-price-prediction.git
 git push -u origin main
+
+# for update git code 
+git add .
+git commit 'Visual.ipynb and .gitignore'
+git push
