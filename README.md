@@ -109,4 +109,4 @@ And create beautifull interface of Power BI report
 **Priyanshu Pandey**  
 Diploma in Automation & Robotics  
 Aspiring Data Scientist  
-[LinkedIn Profile](https://www.linkedin.com/in/priyanshu-pandey-672767320)
+[LinkedIn Profile](https://www.linkedin.com/in/priyanshu-pandey67)
